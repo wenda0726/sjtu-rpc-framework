@@ -1,0 +1,2 @@
+netty=com.sjtu.remoting.transport.netty.client.NettyRpcClient
+socket=com.sjtu.remoting.transport.socket.SocketRpcClient
